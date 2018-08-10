@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Maquillajes City Color</string>
+    <string name="Color">Color</string>
+    <string name="Datos_adicional_producto">Datos_Adicional _Producto</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="Peso_Neto">Peso_Neto</string>
+    <string name="Precio">Precio</string>
+    <string name="Producto_Nombre">Producto_Nombre</string>
+    <string name="Foto_del_maquillaje">Foto del maquillaje</string>
+    <string name="Registro_de_Maquillajes">Registro de Maquillajes</string>
+
+</resources>

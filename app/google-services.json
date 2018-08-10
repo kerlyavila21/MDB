@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59350080672",
+    "firebase_url": "https://mdb1-cd77c.firebaseio.com",
+    "project_id": "mdb1-cd77c",
+    "storage_bucket": "mdb1-cd77c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59350080672:android:0d906d4cdef0bf2d",
+        "android_client_info": {
+          "package_name": "com.example.kerly.myapplicationmdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59350080672-fb3h602qbfj2hu3ciccq70vo97tno51h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kerly.myapplicationmdb",
+            "certificate_hash": "e2c0facc59bcaed2ae6e5db3f55c8a602df06721"
+          }
+        },
+        {
+          "client_id": "59350080672-b5rmab8o5ksbdqchfe7d2ri7r6qgu3eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSbgQse0EvnB3u8JNIGuxdYYRd_qMHmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59350080672-b5rmab8o5ksbdqchfe7d2ri7r6qgu3eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
